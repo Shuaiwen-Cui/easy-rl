@@ -1,7 +1,13 @@
+# 仓库说明
+
+Modified time: 2024-02-13
+
+该仓库为李宏毅强化学习及对应笔记蘑菇书EasyRL的个人修改版本，增加了本人的一些学习感悟，原仓库请参考下文中内容，本修改版本请看右上角。
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![GitHub issues](https://img.shields.io/github/issues/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/issues) [![GitHub stars](https://img.shields.io/github/stars/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/stargazers) [![GitHub forks](https://img.shields.io/github/forks/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/network) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatawhalechina%2Feasy-rl%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
-
-# 蘑菇书EasyRL
+## 蘑菇书EasyRL
 
 李宏毅老师的《深度强化学习》是强化学习领域经典的中文视频之一。李老师幽默风趣的上课风格让晦涩难懂的强化学习理论变得轻松易懂，他会通过很多有趣的例子来讲解强化学习理论。比如老师经常会用玩 Atari 游戏的例子来讲解强化学习算法。此外，为了教程的完整性，我们整理了周博磊老师的《强化学习纲要》、李科浇老师的《世界冠军带你从零实践强化学习》以及多个强化学习的经典资料作为补充。对于想入门强化学习又想看中文讲解的人来说绝对是非常推荐的。
 
